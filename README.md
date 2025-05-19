@@ -25,7 +25,8 @@ Install dependencies:
 pip install numpy
 pip install pillow
 ```
-🧠 Usage
+
+##🧠 Usage
 🔹 Encrypt an image
 ```bash
 python pixman.py encrypt input.png encrypted.png <key>
@@ -35,7 +36,9 @@ python pixman.py encrypt input.png encrypted.png <key>
 python pixman.py decrypt encrypted.png decrypted.png <key>
 ```
 ⚠️ Use the same key for encryption and decryption, or the output will be unreadable.
-🖥️ Example Output
+
+###🖥️ Example Output
+
 ```bash
 ██████╗ ██╗██╗   ██╗███╗   ███╗  █████╗ ███╗   ██╗
 ██╔══██╗██║ ██║ ██╔╝████╗ ████║ ██╔══██╗████╗  ██║
@@ -46,16 +49,23 @@ python pixman.py decrypt encrypted.png decrypted.png <key>
 
 PIXMan — Image Encryptor and Decryptor tool
 ```
-📂 Directory Structure
+
+##📂 Directory Structure
+
+```bash
 ├── pixman.py
 ├── input.png
 ├── encrypted.png
 ├── decrypted.png
 └── README.md
-📄 License
+```
+
+##📄 License
+
 This project is open-source under the MIT License.
 
-🤝 Contributing
+##🤝 Contributing
+
 Feel free to fork the repository, suggest improvements, or submit pull requests. Bug fixes and feature ideas are welcome!
 
 
