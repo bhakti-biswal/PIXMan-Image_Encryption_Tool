@@ -37,7 +37,7 @@ python pixman.py decrypt encrypted.png decrypted.png <key>
 ```
 ⚠️ Use the same key for encryption and decryption, or the output will be unreadable.
 
-###🖥️ Example Output
+##🖥️ Example Output
 
 ```bash
 ██████╗ ██╗██╗   ██╗███╗   ███╗  █████╗ ███╗   ██╗
