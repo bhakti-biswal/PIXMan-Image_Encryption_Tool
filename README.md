@@ -1,4 +1,3 @@
-# PRODIGY_CS_02
 # 🖼️ PIXMan — Image Encryption & Decryption Tool
 
 A Python-based image encryption and decryption tool using pixel-level transformations. PIXMan is built using NumPy and PIL, and is perfect for experimenting with lightweight image-level cryptographic techniques.
